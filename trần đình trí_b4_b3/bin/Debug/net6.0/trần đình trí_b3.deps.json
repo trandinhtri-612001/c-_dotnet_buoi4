@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "trần đình trí_b3/1.0.0": {
+        "runtime": {
+          "trần đình trí_b3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trần đình trí_b3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

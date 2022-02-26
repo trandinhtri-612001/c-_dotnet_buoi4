@@ -1,0 +1,15 @@
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\obj\Debug\net6.0\tran dinh tri_b4_b6.csproj.AssemblyReference.cache
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\obj\Debug\net6.0\tran dinh tri_b4_b6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\obj\Debug\net6.0\tran dinh tri_b4_b6.AssemblyInfoInputs.cache
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\obj\Debug\net6.0\tran dinh tri_b4_b6.AssemblyInfo.cs
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\obj\Debug\net6.0\tran dinh tri_b4_b6.csproj.CoreCompileInputs.cache
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\bin\Debug\net6.0\tran dinh tri_b4_b6.exe
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\bin\Debug\net6.0\tran dinh tri_b4_b6.deps.json
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\bin\Debug\net6.0\tran dinh tri_b4_b6.runtimeconfig.json
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\bin\Debug\net6.0\tran dinh tri_b4_b6.dll
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\bin\Debug\net6.0\ref\tran dinh tri_b4_b6.dll
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\bin\Debug\net6.0\tran dinh tri_b4_b6.pdb
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\obj\Debug\net6.0\tran dinh tri_b4_b6.dll
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\obj\Debug\net6.0\ref\tran dinh tri_b4_b6.dll
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\obj\Debug\net6.0\tran dinh tri_b4_b6.pdb
+D:\DONET_CORE_PROJECT\tran dinh tri_b4_b6\obj\Debug\net6.0\tran dinh tri_b4_b6.genruntimeconfig.cache
